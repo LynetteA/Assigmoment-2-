@@ -1,0 +1,68 @@
+
+\documentclass[12pt,]{article}
+\usepackage{zed-csp,graphicx,color}%from
+\pagenumbering{roman}
+\begin{document}
+
+\begin{titlepage}
+\centerline{Implementation of a system that accesses Journalists problems In Uganda and gives a variety of solutions depending on the Problem.\\}
+\paragraph*{•}
+\centerline{  Prepared by:  Awat Lynette 16/U/3973/ps 216007582.\\}
+\paragraph*{•}
+\paragraph*{•}
+  \begin{flushright}
+  The Report,\\
+  DATE: $February,23^{rd},2018$.
+ \tableofcontents
+
+  \end{flushright}
+\date{\today}
+\end{titlepage}
+
+\newpage
+
+
+\pagenumbering{arabic}
+\section{Introduction}.
+The journalism industry is one of the most developing industries in Uganda with evolving and new technology everyday.its the most interesting because it gives news both bad and good and keeps everyone updated through their various media platforms that include televisions,radios ,twitter and face book platforms .this helps to keep people updated in whichever part of the country they are in.
+
+\section{Statement of the problem}
+The purpose of this study is to observe and see the problems affecting the journalism industry in Uganda today and the relevance of the media industry.
+
+\section{Main objectives of the study}
+To find out the problems affecting the Journalism and media industry in Uganda today and create a system that gives a variety of solutions depending on the particular problem faced as fed into the system.
+
+\section{Specific objectives of the study}
+To find out the reasons affecting media communication
+To find out the problems of thee journalism industry
+To find out how much profitable is communication is to the society
+To create a system that gives variety of solutions depending on the problem fed into the system.
+
+\section{Significance of Study}
+Determine the different ways in which journalism has affected the society and how relevant it has been to society and how to better the lives of the journalists as they work today
+
+\section{Methods used to used to study}
+The data was collected using a questionnaire through interview of a few of the most top journalists  Raymond Mujuni of NTV Uganda and Canary Mugume of NBS Television who spoke on behalf of the Uganda Media Association.
+
+
+\section{Full Overview}
+Journalism is one of the most intriguing industries in Uganda and one needs to have pursued a course at university which is journalism and communication or rather have an inborn and inner  passion for it because it must come from within in order for it to be best done and expressed.journalists in Uganda have a lot of work to do that includes running around to cover the latest news happening in every part of the country.this enables them to bring the live updates and every other thing to many of their viewers so that they can be able to get informed.
+journalists work everyday because their is most certainly news to cover everyday,prominent deaths,economic situations in the country,presidential visits and meetings ,elections ,entertainment news,e.t.c so they'll always be something to talk about.
+Journalism is a source of sometimes reliable and dependent information and sometimes its not reliable as their so many sources and sides of the story for the same kind of news being relayed,and put across.
+  The very many journalism sources in Uganda include NTV,NBS,URBAN TV,BUKEDDE TV,SPARK TV and others while the radios include KFM,CAPITAL FM,XFM.RADIO ONE,POWER FM and others.
+ Journalists face problems in their work such as bad weather,places where there is instability, people being violent,some journalists are kidnapped lately because of the truths which they speak about as they cover the news in Uganda and still in all this they need to cover the story because it needs to be told. so at the end of the day they need to have news.  
+ 
+ 
+ 
+\section{Recommendations}
+ The  solutions to all these problems that affect both the people and the journalists can be solve the computing way. 
+For the viewers there are several applications that have been developed to cab the ignorance and give people to watch TV or listen to radio in their comfort and from anywhere so that they don't have to miss the news and they keep getting updated from time to time.
+ On the journalists side they could be given insurance and mobile applications that can catch news without them physically being their.This helps them work effectively without fail.
+ 
+\section{Conclusion}
+Journalism is one of the most interesting topics in Uganda and should fully be embraced so that we can be able to keep updated on what's happening in our country and in all the areas that surround us otherwise ignorance shouldn't be embraced at all rather information at all times.
+
+
+
+         Written by Awat Lynette.
+\end{document}
